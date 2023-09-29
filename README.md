@@ -27,7 +27,7 @@ Es un programa el cual te proporciona un servicio digital.
 |Google Meet|![Google Meet](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A2/blob/main/Imagen%20ordenador.PNG "Google Meet")|
 |...|...|
 
-6. ¿Qué es HTML?
+6. ¿Qué es ```HTML```?
 
 Es un lenguaje para definir el contenido de páginas web.
 
@@ -44,3 +44,10 @@ Es un lenguaje para definir el contenido de páginas web.
 </body>
 </html>
 ```
+
+7. ¿Qué es ```CSS```?
+Es un lenguaje informatico que te permite modificar el diseño y la visualización de las páginas web.
+
+8. Flujo de trabajo (navegador,servidor y respuesta):
+
+![Flujo de trabajo](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A2/blob/main/Webserver.PNG "Flujo de trabajo")
