@@ -18,7 +18,7 @@ Es un programa el cual te proporciona un servicio digital.
 
 [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
-|**Aplicaciones**|**Visto**|
+|Aplicaciones|Visto|
 |----------------||----------------|
 |Google Docs|![Google Docs](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A2/blob/main/Imagen%20tick.PNG "Google Docs")|
 |Google Slides|![Google Slides](https://github.com/RafaelPascualLlorca/SMX2-M8UF1A2/blob/main/Imagen%20tick.PNG "Google Slides")|
