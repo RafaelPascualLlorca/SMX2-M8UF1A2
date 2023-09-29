@@ -46,6 +46,7 @@ Es un lenguaje para definir el contenido de páginas web.
 ```
 
 7. ¿Qué es ```CSS```?
+
 Es un lenguaje informatico que te permite modificar el diseño y la visualización de las páginas web.
 
 8. Flujo de trabajo (navegador,servidor y respuesta):
