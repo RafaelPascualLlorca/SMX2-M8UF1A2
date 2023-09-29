@@ -31,7 +31,7 @@ Es un programa el cual te proporciona un servicio digital.
 
 Es un lenguaje para definir el contenido de páginas web.
 
-``
+```
 <!D0CTYPE html>
 <html lang="en">
 <head>
@@ -43,4 +43,4 @@ Es un lenguaje para definir el contenido de páginas web.
 
 </body>
 </html>
-``
+```
